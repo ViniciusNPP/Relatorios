@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapos\\Desktop\\Roteiros_C#\\Roteiro2\\Exerc\u00EDcio_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1F4FE6-DBD0-443D-BBA8-7CBA3851760A}|Ex_2\\Ex_2.csproj|c:\\users\\rapos\\desktop\\roteiros_c#\\roteiro2\\exerc\u00EDcio_2\\ex_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1F4FE6-DBD0-443D-BBA8-7CBA3851760A}|Ex_2\\Ex_2.csproj|solutionrelative:ex_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rapos\\Desktop\\Roteiros_C#\\Roteiro2\\Exerc\u00EDcio_2\\Ex_2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_2\\Program.cs",
+              "ToolTip": "C:\\Users\\rapos\\Desktop\\Roteiros_C#\\Roteiro2\\Exerc\u00EDcio_2\\Ex_2\\Program.cs*",
+              "RelativeToolTip": "Ex_2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:07:23.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
