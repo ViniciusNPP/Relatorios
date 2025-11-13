@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rapos\\Desktop\\Roteiro1\\Exercício_1\\Ex_1\\Ex_1.csproj",
+      "projectUniqueName": "C:\\Users\\rapos\\Desktop\\Roteiros\\Roteiros_C#\\Roteiro1\\Exercício_1\\Ex_1\\Ex_1.csproj",
       "projectName": "Ex_1",
-      "projectPath": "C:\\Users\\rapos\\Desktop\\Roteiro1\\Exercício_1\\Ex_1\\Ex_1.csproj",
+      "projectPath": "C:\\Users\\rapos\\Desktop\\Roteiros\\Roteiros_C#\\Roteiro1\\Exercício_1\\Ex_1\\Ex_1.csproj",
       "packagesPath": "C:\\Users\\rapos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rapos\\Desktop\\Roteiro1\\Exercício_1\\Ex_1\\obj\\",
+      "outputPath": "C:\\Users\\rapos\\Desktop\\Roteiros\\Roteiros_C#\\Roteiro1\\Exercício_1\\Ex_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
