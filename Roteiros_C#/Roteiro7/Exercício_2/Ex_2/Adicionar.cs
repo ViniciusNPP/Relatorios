@@ -26,7 +26,7 @@ namespace Ex_1
 
             if (regex.Count == 0)
             {
-                Console.WriteLine("\nNenhum item válido foi encontrado. Tente novamente.");
+                Console.WriteLine("\nNenhum produto válido foi encontrado. Tente novamente.");
                 Thread.Sleep(1500);
                 return;
             }
@@ -55,7 +55,7 @@ namespace Ex_1
                 }
             }
 
-            Console.WriteLine("\nItem(ns) adicionado(s) com sucesso!");
+            Console.WriteLine("\nProduto(s) adicionado(s) com sucesso!");
             Thread.Sleep(1500);
         }
     }

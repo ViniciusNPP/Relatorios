@@ -18,12 +18,12 @@ public class Program
             {
                 Console.Clear();
                 Console.WriteLine("===========================================");
-                Console.WriteLine("LISTA DE COMPRAS");
+                Console.WriteLine("ARMAZENAMENTO DE PRODUTOS");
                 Console.WriteLine("===========================================\n");
 
-                Console.WriteLine("1- Adicionar item(ns)");
+                Console.WriteLine("1- Adicionar produto(s)");
                 Console.WriteLine("2- pesquisar produto por chave");
-                Console.WriteLine("3- listar item(ns)");
+                Console.WriteLine("3- listar produtos(s)");
                 Console.WriteLine("4- Sair do programa");
 
                 Console.Write("\n---> ");

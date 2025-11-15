@@ -1,0 +1,15 @@
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\bin\Debug\net8.0\Ex_5.exe
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\bin\Debug\net8.0\Ex_5.deps.json
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\bin\Debug\net8.0\Ex_5.runtimeconfig.json
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\bin\Debug\net8.0\Ex_5.dll
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\bin\Debug\net8.0\Ex_5.pdb
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\Ex_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\Ex_5.AssemblyInfoInputs.cache
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\Ex_5.AssemblyInfo.cs
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\Ex_5.csproj.CoreCompileInputs.cache
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\Ex_5.sourcelink.json
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\Ex_5.dll
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\refint\Ex_5.dll
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\Ex_5.pdb
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\Ex_5.genruntimeconfig.cache
+C:\Users\rapos\Desktop\Roteiros\Roteiros_C#\Roteiro7\Exercício_5\Ex_5\Ex_5\obj\Debug\net8.0\ref\Ex_5.dll
